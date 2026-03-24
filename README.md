@@ -14,6 +14,8 @@ Ito ang aking unang repository para sa aking pag-aaral bilang isang **QA Automat
 - [x] SSH Key Authentication
 - [x] Basic Git Commands (add, commit, push)
 - [x] Creating and Managing Repositories
+- [x] Compare and Pull Request
+- [x] Merge
 
 ## 🎯 Next Steps
 
